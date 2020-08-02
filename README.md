@@ -27,6 +27,7 @@
     > 위 링크에 접속하여 'Invite a collaborator'를 눌러 'toss-android-bot'을 추가해주세요.
  
 6. clone 받은 repository에 포함되어 있는 안드로이드 프로젝트가 지원자님의 컴퓨터에서 빌드가 정상적으로 되는지 미리 확인해주세요.
+    > MainActivity가 kotlin으로 생성되어 있지만, 삭제하시고 java로 다시 생성하셔도 괜찮습니다.
 
 7. 8월 8일 토요일 오후 2시에 발송되는 과제를 90분 이내에 해결하시고, 지원자님의 repository에 push 해주세요.<br>
     최종 commit 시간을 기준으로 90분을 넘지 않아야 함을 주의해주세요.
