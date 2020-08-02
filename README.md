@@ -18,12 +18,12 @@
 4. 아래 명령어로 origin 을 변경하고, 지원자의 저장소에 push 해주세요.
     ```
     $ git remove origin
-    $ git add origin git@github.com:{github-nickname}/next-developer-2020.git
+    $ git add origin git@github.com:{github-username}/next-developer-2020.git
     $ git add puhs origin
     ```
     
 5. 지원자님이 생성한 repository 설정에서 **'toss-android-bot'** 을 **Collaborator**로 추가해주세요.
-    > https://github.com/{github-nickname}/next-developer-2020/settings/access<br>
+    > https://github.com/{github-username}/next-developer-2020/settings/access<br>
     > 위 링크에 접속하여 'Invite a collaborator'를 눌러 'toss-android-bot'을 추가해주세요.
     
 6. clone 받은 repository에 포함되어 있는 안드로이드 프로젝트가 지원자님의 컴퓨터에서 빌드가 정상적으로 되는지 미리 확인해주세요.
